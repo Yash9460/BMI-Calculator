@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     float bmi,w,h;
-    cout << "Enter your age in pounds: ";
+    cout << "Enter your age: ";
     cin >> w;
     cout << "Enter your height in inches: ";
     cin >> h;
